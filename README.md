@@ -1,0 +1,2 @@
+# BetterText
+Text Notifications Simplified.
