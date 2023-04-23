@@ -5,7 +5,7 @@
   
 `2.` You need to ungroup all the items in to the locations they need (their name)
 
-`3.` Now your pretty much done, you can see some example code on how to send notifications in ServerScriptService
+`3.` Now your pretty much done, you can see some example code on how to send notifications in ServerScriptService and make different text types in StarterPlayerScripts
 
 _This is completely open source_  
 
