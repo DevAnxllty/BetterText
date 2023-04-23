@@ -1,2 +1,4 @@
 # BetterText
-Text Notifications Simplified.
+```
+
+```
